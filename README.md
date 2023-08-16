@@ -1,6 +1,6 @@
 # eBird-Alerts-Bot
 
-Follow this tutorial and replace main.py with your version of main.py here.
+Follow this tutorial and replace main.py with your version of main.py here. Also, be sure to add the EBIRD_SECRET to your environment variables just like the BOT_SECRET.
 
 https://docs.replit.com/tutorials/python/build-basic-discord-bot-python
 
